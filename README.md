@@ -1,6 +1,6 @@
-# chronordle
+# whirdul
 
-It's just a copy of [hello-wordl](https://github.com/lynn/hello-wordl) at the moment!
+A [hello-wordl](https://github.com/lynn/hello-wordl) clone that _plaze_ slightly differently... (better description to come)
 
 ## Introduction
 
